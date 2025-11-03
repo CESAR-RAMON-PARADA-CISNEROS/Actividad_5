@@ -1,0 +1,8 @@
+{
+  "coverage_lines": 99.0,
+  "coverage_branches": 98.0,
+  "tests_total": 18,
+  "tests_passed": 18,
+  "ci_status": "green",
+  "properties_implemented": ["normalize_idempotent", "format_invariance"]
+}
